@@ -18,6 +18,8 @@ The application is composed of the following features:
 ![Screenshot (387)](https://user-images.githubusercontent.com/74485892/204299689-0aea2127-6803-43fc-a637-cc7aec23eef7.png)
 + ## Popular page
 ![Screenshot (388)](https://user-images.githubusercontent.com/74485892/204300916-57497eb3-3c0e-46e8-a2a6-6c0dd6bb9810.png)
++ ##fotter 
+
 ***
 # Developed with
 ## Visual Studio Code:
