@@ -10,6 +10,7 @@ The application is composed of the following features:
 
 
 + collection page
+![Screenshot (384)](https://user-images.githubusercontent.com/74485892/204300512-2574eb34-fafa-4d79-8f59-46280e33600f.png)
 
 + Special products page
 + Blogs page
