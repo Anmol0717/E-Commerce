@@ -9,7 +9,9 @@ The application is composed of the following features:
 + collection page
 + Special products page
 + Blogs page
+
 + About us page
+![Screenshot (387)](https://user-images.githubusercontent.com/74485892/204299689-0aea2127-6803-43fc-a637-cc7aec23eef7.png)
 + Popular page
 
 ***
