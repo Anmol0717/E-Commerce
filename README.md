@@ -4,7 +4,7 @@ The application is composed of the following features:
 + Sign up/Login page
 ![Screenshot (373)](https://user-images.githubusercontent.com/74485892/204296360-39ec1c30-46cf-44e6-b360-20d78f75aea9.png)
 + contact us page
-![Screenshot (376)](https://user-images.githubusercontent.com/74485892/204297897-661f6b81-0f09-4ac6-b0b0-57618e09df13.png)
+
 
 + collection page
 + Special products page
